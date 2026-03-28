@@ -1,7 +1,7 @@
 import React from 'react';
 
 const StudentList = ({ students, deleteStudent }) => {
-  // Pastel colors for card variety as seen in UI
+
   const cardColors = ['bg-[#e2f2f1]', 'bg-[#ffedcc]'];
 
   return (
