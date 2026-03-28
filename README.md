@@ -1,16 +1,29 @@
-# React + Vite
+# Student Management App (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, modern, and interactive **Student Management Interface** built using React.js and Tailwind CSS. [cite_start]This project focuses on component-based architecture and dynamic data handling[cite: 8, 11].
 
-Currently, two official plugins are available:
+## 🚀 Features
+* [cite_start]**Create a React Application**: A fully functional frontend application built with modern standards[cite: 14].
+* [cite_start]**Reusable Components**: Modular structure with separate components for Form and List displays[cite: 15].
+* [cite_start]**Dynamic Student Records**: Displays a list of students including Name, Age, and Course details[cite: 16].
+* [cite_start]**Add New Students**: Interactive form to capture and inject new student data into the UI[cite: 17].
+* [cite_start]**Delete Functionality**: Ability to remove specific records from the list dynamically[cite: 18].
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+* [cite_start]**React.js**: For building the user interface and managing component lifecycle[cite: 20].
+* [cite_start]**JavaScript (ES6+)**: For logic and state manipulation[cite: 21].
+* **Tailwind CSS**: For a modern, responsive, and smooth UI design.
+* [cite_start]**HTML5 & CSS3**: For semantic structure and custom styling[cite: 22, 23].
 
-## React Compiler
+## 📖 Learning Outcomes
+This project was developed to demonstrate a strong foundation in:
+* [cite_start]Understanding React component structure and hierarchy[cite: 25].
+* [cite_start]Effective use of **JSX** and functional components[cite: 26].
+* [cite_start]Managing application data using **React State** (`useState`)[cite: 27].
+* [cite_start]Rendering dynamic data efficiently in the UI[cite: 28].
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ⚙️ Setup and Installation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**:
+   ```bash
+   git clone <https://github.com/vyasmohle/Student-app-.git>
